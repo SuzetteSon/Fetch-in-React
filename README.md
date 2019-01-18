@@ -51,3 +51,4 @@ src/serviceWorker.js
 ```
 Source code for loading icon: http://tobiasahlin.com/spinkit/
 Source code for LoadingSpinner Component: https://blog.stvmlbrn.com/2017/10/14/display-loading-indicator-in-react-during-ajax-requests.html
+Source for Date formatter: https://stackoverflow.com/questions/25159330/convert-iso-date-to-date-format-yyyy-mm-dd-format-in-javascript
